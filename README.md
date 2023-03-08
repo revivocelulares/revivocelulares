@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [POSH Boutique](https://frontend-five-gules.vercel.app/)
+- 🔭 I’m currently working on [EDISiben](https://edisiben.vercel.app/)
 
 - 🌱 I’m currently learning **| React native | | Prisma | | TypeScript |**
 
